@@ -1,4 +1,4 @@
-package com.fedorvlasov.lazylist;
+package com.corpit.myimageload;
 
 import android.app.Activity;
 import android.os.Bundle;
